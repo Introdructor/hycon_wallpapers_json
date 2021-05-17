@@ -1,32 +1,56 @@
 [
     {
-     "author": "Shanky",
+      "author": "Shanky",
       "url": "https://imagizer.imageshack.com/img922/5260/NnHQ1K.png",
       "name": "HY-OS_TEXT",
       "collections": "Exclusive"
     },
     {
-     "author": "Shanky",
+      "author": "Shanky",
       "url": "https://imagizer.imageshack.com/img923/8366/MBAxua.png",
       "name": "HY-OS_TEXT-2",
       "collections": "Exclusive"
      },
     {
-     "author": "Shanky",
+      "author": "Shanky",
       "url": "https://imagizer.imageshack.com/img923/2369/A2apAE.png",
       "name": "HY-OS_TEXT-3",
       "collections": "Exclusive"
      },
     {
-     "author": "Shanky",
+      "author": "Shanky",
       "url": "https://imagizer.imageshack.com/img922/3958/ESV3iE.png",
       "name": "HY-OS_ABSTRACT",
       "collections": "Exclusive"
      },
-    {
-     "author": "Shanky",
-      "url": "https://imagizer.imageshack.com/img922/9443/UZwTLA.png",
-      "name": "HY-OS_ABSTRACT-2",
-      "collections": "Exclusive"
-}
+     {
+       "author": "Shanky",
+       "url": "https://github.com/Introdructor/images/raw/main/TEST%20HYCON.png",
+       "name": "HY-OS_Pink_Wolf",
+       "collections": "Exclusive"
+     },
+     {
+       "author": "Shanky",
+       "url": "https://github.com/Introdructor/images/raw/main/IMG_20210517_221924_441.png",
+       "name": "HY-OS_Rengoku_glitch",
+       "collections": "Anime"
+     },
+     {
+       "author": "Shanky",
+       "url": "https://github.com/Introdructor/images/raw/main/HYCON_EX_ANM.png",
+       "name": "HY-OS_Rengoku_Red",
+       "collections": "Anime"
+     },
+     {
+       "author": "Shanky",
+       "url": "https://github.com/Introdructor/images/raw/main/HYCON_EX_ANM1.png",
+       "name": "HY-OS_RengokuBW",
+       "collections": "Anime"
+     },
+     {
+       "author": "Shanky",
+       "url": "https://imagizer.imageshack.com/img922/9443/UZwTLA.png",
+       "name": "HY-OS_ABSTRACT-2",
+       "collections": "Exclusive"
+     }
 ]
